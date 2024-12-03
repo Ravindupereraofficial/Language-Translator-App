@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Language Translator Pro</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+<body>
+  <div class="translator-container">
+    <header>
+      <p class="header">🌐 Language Translator Pro</p>
+      <p>Translate and Speak in any language!</p>
+    </header>
+
+    <main>
+      <textarea id="inputText" placeholder="Type or speak text to translate..." class="input-text"></textarea>
+      <button id="voiceInputBtn" class="icon-button"><i class="fas fa-microphone"></i></button>
+
+      <div class="language-select-group">
+        <div class="language-block">
+          <label for="sourceLanguage">From:</label>
+          <select id="sourceLanguage" class="language-select"></select>
+        </div>
+        <div class="language-block">
+          <label for="targetLanguage">To:</label>
+          <select id="targetLanguage" class="language-select"></select>
+        </div>
+      </div>
+
+      <button id="translateBtn" class="translate-btn"><i class="fas fa-exchange-alt"></i> Translate</button>
+
+      <div id="outputContainer" class="output-container">
+        <h2>Translation:</h2>
+        <div id="outputText" class="output-text">Your translation will appear here...</div>
+        <button id="speakOutputBtn" class="icon-button"><i class="fas fa-volume-up"></i></button>
+      </div>
+    </main>
+
+    <footer>
+      <p>Powered by Ravindu Perera | Built with ❤️</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
