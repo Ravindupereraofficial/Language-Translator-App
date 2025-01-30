@@ -1,0 +1,53 @@
+# Language Translator App - User Guide
+
+## Introduction
+Welcome to the **Language Translator App**! This app allows you to translate text between multiple languages quickly and easily. Whether you need help understanding a foreign language or communicating with someone, this app provides accurate translations in just a few taps.
+
+## Features
+- Translate text between various languages.
+- User-friendly interface with simple navigation.
+- Quick and accurate translations.
+- Copy translated text with one click.
+- Support for multiple languages.
+- Lightweight and fast performance.
+
+## How to Use the App
+
+### 1. Open the App
+Launch the Language Translator App on your device.
+
+### 2. Select Input Language
+Choose the language of the text you want to translate from the dropdown menu labeled **"From Language"**.
+
+### 3. Select Output Language
+Choose the language you want the text to be translated into from the **"To Language"** dropdown menu.
+
+### 4. Enter Text
+Type or paste the text you want to translate into the text input box.
+
+### 5. Translate
+Tap the **"Translate"** button. The translated text will appear in the output box within seconds.
+
+### 6. Copy or Share Translation
+- Tap the **"Copy"** button to copy the translated text to your clipboard.
+- Share the translation using the **"Share"** option if available.
+
+## Additional Tips
+- Ensure your device has an internet connection for the best translation accuracy.
+- Use simple and clear sentences for better translation results.
+- If an error occurs, try reloading the app and re-entering the text.
+
+## Troubleshooting
+### Q: The app is not translating my text.
+A: Check your internet connection and ensure you have selected the correct input and output languages.
+
+### Q: Some translations seem incorrect.
+A: Automated translations may not always be perfect. Try rephrasing the text for better accuracy.
+
+### Q: The app crashes or lags.
+A: Restart the app and clear cache memory if needed.
+
+## Contact Support
+If you encounter any issues or have suggestions, feel free to contact our support team at **support@example.com**.
+
+Enjoy seamless translations with the **Language Translator App**!
