@@ -8,8 +8,11 @@ Welcome to the **Language Translator App**! This app allows you to translate tex
 - User-friendly interface with simple navigation.
 - Quick and accurate translations.
 - Copy translated text with one click.
-- Support for multiple languages.
+- Share translations via social media or messaging apps.
+- Support for multiple languages with real-time updates.
 - Lightweight and fast performance.
+- Dark mode for a comfortable viewing experience.
+- Voice input and output for hands-free translations.
 
 ## How to Use the App
 
@@ -23,19 +26,21 @@ Choose the language of the text you want to translate from the dropdown menu lab
 Choose the language you want the text to be translated into from the **"To Language"** dropdown menu.
 
 ### 4. Enter Text
-Type or paste the text you want to translate into the text input box.
+Type or paste the text you want to translate into the text input box. You can also use the voice input feature by tapping the **microphone icon**.
 
 ### 5. Translate
-Tap the **"Translate"** button. The translated text will appear in the output box within seconds.
+Tap the **"Translate"** button. The translated text will appear in the output box within seconds. If enabled, the app can also read the translated text aloud.
 
-### 6. Copy or Share Translation
+### 6. Copy, Share, or Listen to Translation
 - Tap the **"Copy"** button to copy the translated text to your clipboard.
-- Share the translation using the **"Share"** option if available.
+- Tap the **"Share"** button to send the translation via messaging apps or social media.
+- Tap the **"Speaker"** icon to listen to the translated text.
 
 ## Additional Tips
 - Ensure your device has an internet connection for the best translation accuracy.
 - Use simple and clear sentences for better translation results.
 - If an error occurs, try reloading the app and re-entering the text.
+- Enable dark mode in the settings for a comfortable reading experience at night.
 
 ## Troubleshooting
 ### Q: The app is not translating my text.
@@ -45,9 +50,13 @@ A: Check your internet connection and ensure you have selected the correct input
 A: Automated translations may not always be perfect. Try rephrasing the text for better accuracy.
 
 ### Q: The app crashes or lags.
-A: Restart the app and clear cache memory if needed.
+A: Restart the app and clear cache memory if needed. Ensure your device has enough storage space.
+
+### Q: Voice input is not working.
+A: Make sure your microphone permissions are enabled in your device settings.
 
 ## Contact Support
-If you encounter any issues or have suggestions, feel free to contact our support team at **support@example.com**.
+If you encounter any issues or have suggestions, feel free to contact our support team at **contact.ravinduperera@Gmail.com**.
 
 Enjoy seamless translations with the **Language Translator App**!
+
