@@ -1,4 +1,3 @@
-/* General Reset */
 * {
   margin: 0;
   padding: 0;
@@ -6,9 +5,8 @@
   font-family: 'Poppins', sans-serif;
 }
 
-/* Background Animation */
 body {
-  background: linear-gradient(45deg, #d4edda, #a8e6cf, #5cb85c);
+  background: linear-gradient(45deg, #a8e6cf, #dcedc1, #ffd3b6);
   background-size: 400% 400%;
   animation: gradientAnimation 8s ease infinite;
   display: flex;
@@ -23,7 +21,6 @@ body {
   100% { background-position: 0% 50%; }
 }
 
-/* Container Styling */
 .translator-container {
   background: linear-gradient(145deg, #ffffff, #f0f4f8);
   border-radius: 10px;
@@ -33,7 +30,7 @@ body {
   padding: 25px;
   text-align: center;
   margin: 10px;
-  border: 1px solid #5cb85c;
+  border: 1px solid #4caf50;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -42,10 +39,9 @@ body {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
 }
 
-/* Header Styling */
 header h1 {
   font-size: 2.5rem;
-  background: linear-gradient(to right, #5cb85c, #388e3c);
+  background: linear-gradient(to right, #4caf50, #388e3c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.5rem;
@@ -57,12 +53,11 @@ header p {
   margin-bottom: 1.5rem;
 }
 
-/* Textarea */
 textarea.input-text {
   width: 100%;
   height: 140px;
   border-radius: 8px;
-  border: 1px solid #5cb85c;
+  border: 1px solid #4caf50;
   padding: 15px;
   font-size: 1rem;
   resize: none;
@@ -77,9 +72,8 @@ textarea.input-text:focus {
   outline: none;
 }
 
-/* Icon Button */
 .icon-button {
-  background: linear-gradient(to right, #5cb85c, #388e3c);
+  background: linear-gradient(to right, #4caf50, #388e3c);
   border: none;
   padding: 15px;
   border-radius: 50%;
@@ -94,7 +88,6 @@ textarea.input-text:focus {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Language Select */
 .language-select-group {
   display: flex;
   justify-content: space-between;
@@ -109,7 +102,7 @@ textarea.input-text:focus {
   width: 100%;
   padding: 12px;
   border-radius: 8px;
-  border: 1px solid #5cb85c4c;
+  border: 1px solid #4caf504c;
   background: linear-gradient(145deg, #f8f9fc, #e4e7ee);
   transition: box-shadow 0.3s ease, transform 0.2s ease;
 }
@@ -118,9 +111,8 @@ textarea.input-text:focus {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
-/* Translate Button */
 .translate-btn {
-  background: linear-gradient(to right, #5cb85c, #388e3c);
+  background: linear-gradient(to right, #4caf50, #388e3c);
   color: white;
   border: none;
   padding: 12px 25px;
@@ -131,11 +123,10 @@ textarea.input-text:focus {
 }
 
 .translate-btn:hover {
-  background: linear-gradient(to right, #388e3c, #5cb85c);
+  background: linear-gradient(to right, #388e3c, #4caf50);
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Output Styling */
 .output-container {
   margin-top: 25px;
 }
@@ -146,7 +137,6 @@ textarea.input-text:focus {
   margin-bottom: 12px;
 }
 
-/* Footer */
 footer {
   margin-top: 20px;
   font-size: 0.9rem;
